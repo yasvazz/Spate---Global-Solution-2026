@@ -4,6 +4,8 @@ Aplicativo mobile em Flutter para **previsão e alertas de enchentes, deslizamen
 
 Projeto da **Global Solution 2026**, FIAP.
 
+**Repositório no GitHub:** https://github.com/yasvazz/Spate---Global-Solution-2026
+
 ## Desenvolvedores
 
 | Nome completo | RM |
